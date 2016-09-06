@@ -9,6 +9,7 @@
 - 0.44 增加了热更新
 
 demo:
-![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_1.png)
-![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_2.png)
-![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_3.png)
+
+- ![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_1.png)
+- ![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_2.png)
+- ![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_3.png)
