@@ -88,7 +88,7 @@ class About extends Component {
                   style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}
             >
                 <Text style={{textAlign: 'center', lineHeight: 25, color: '#888'}}>当前最新版</Text>
-                <Text style={{textAlign: 'center', lineHeight: 25, color: '#888'}}>当前版本: 0.44 {'\r'} 版权所有: 中国奥盟网</Text>
+                <Text style={{textAlign: 'center', lineHeight: 25, color: '#888'}}>当前版本: 0.45 {'\r'} 版权所有: 中国奥盟网</Text>
                 <Text style={{textAlign: 'center', lineHeight: 25, color: '#888'}}>最后一次更新时间: 20160905</Text>
             </View>
         )
