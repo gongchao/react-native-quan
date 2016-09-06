@@ -7,3 +7,7 @@
 
 - 0.45 增加了极光推送
 - 0.44 增加了热更新
+
+![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_1.jpeg)
+![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_2.jpeg)
+![image](https://raw.githubusercontent.com/gongchao/react-native-quan/master/Captures/demo_3.png)
