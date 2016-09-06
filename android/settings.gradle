@@ -1,0 +1,7 @@
+rootProject.name = 'quan'
+
+include ':app'
+include ':react-native-jpush'
+project(':react-native-jpush').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-jpush/android')
+include ':react-native-update'
+project(':react-native-update').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-update/android')
