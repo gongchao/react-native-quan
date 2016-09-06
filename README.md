@@ -5,6 +5,8 @@
 
 没有做 ios 导出, 一个简单的新闻列表展示。
 
+Download: [http://fir.im/7zgu](http://fir.im/7zgu)
+
 - 0.45 增加了极光推送
 - 0.44 增加了热更新
 
