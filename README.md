@@ -1,3 +1,4 @@
+停止更新
 
 # react-native-quan
 
